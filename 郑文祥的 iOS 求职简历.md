@@ -5,7 +5,7 @@
 * 姓名: 郑文祥	性别: 男	                    出生年月: 1993.10
 * 学历: 本科      学校: 安徽工业大学   专业: 软件工程
 * 工作经验: 两年
-* 手机号: 18655591525   Email: zwxwqrr@gmail.com
+* 手机号: 18655591525   Email: zwxwqrr@gmail.com or devzheng@qq.com
 * [Github](https://github.com/wanqingrongruo)  [简书](http://www.jianshu.com/u/274775e3d56d)
 
 ## 技能

@@ -21,7 +21,6 @@
 * 熟练使用各种控件进行页面编写,有一定的审美觉悟.
 * 使用 CoreData 进行数据处理，对 Realm 有一定了解
 * 有 CoreBluetooth、Mapkit 使用经验
-* 对 Runtime、Runloop 以及 Refrence Count 有一定认识
 * 有微信支付、支付宝支付接入经验
 * 熟练使用 Cocoapods 进行依赖库管理,对 Carthage 有一定了解
 * 了解 Git,惯于使用 Sourcetree 进行 git 提交 

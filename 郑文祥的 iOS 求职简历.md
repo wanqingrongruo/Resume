@@ -4,31 +4,40 @@
 
 * 姓名: 郑文祥	性别: 男	                    出生年月: 1993.10
 * 学历: 本科      学校: 安徽工业大学   专业: 软件工程
-* 工作经验: 两年
+* 工作经验: 近三年
 * 手机号: 18655591525   Email: zwxwqrr@gmail.com or devzheng@qq.com
 * [Github](https://github.com/wanqingrongruo)  [简书](http://www.jianshu.com/u/274775e3d56d)
 
 ## 技能
 
+* 有 App 完整的开发经验,  从项目搭建到发布.
 * 熟练掌握 Swift, 参与两个 Swift 相关项目开发
 * 熟练掌握 Objective-C, 参与三个 Objective-C 项目开发
 * 有 Swift 与 Objective-C 混编经验, 参与的两个 Swift 项目都是由混编逐步过渡到纯 Swift,由 Swift2 迁移至 Swift3
 * 熟练使用 URLSession,了解使用 Alamofire 以及 AFNetworking 网路库,对 Alamofire 源码有一定了解
+* 使用过 CoreData 进行数据处理. 新项目使用 Realm数据库引擎做数据管理
 * 了解多线程,熟练使用 GCD.
 * 熟练使用代理模式 、工厂模式、MVC、Notification以及KVC/KVO.
 * 熟练使用代码和 XIB进行自动布局,对 StoryBoard 有所了解.熟练使用 Masonry/Snapkit 等自动布局库
 * 熟悉 Json 解析, 熟练使用 SwiftyJson 库进行 Json解析.
 * 熟练使用各种控件进行页面编写,有一定的审美觉悟.
-* 使用 CoreData 进行数据处理，对 Realm 有一定了解
 * 有 CoreBluetooth、Mapkit 使用经验
+* 了解 apns远程推送, 有极光推送使用经验.
 * 有微信支付、支付宝支付接入经验
-* 熟练使用 Cocoapods 进行依赖库管理,对 Carthage 有一定了解
+* 熟练使用 Cocoapods 进行依赖库管理,对 Carthage 和 Package 有一定了解
 * 了解 Git,惯于使用 Sourcetree 进行 git 提交 
 * 会使用 Bugly 进行 bug 收集 以及 友盟进行数据统计
-* 有 App 完整的发布经验，会使用 TestFlight 、蒲公英发布版本测试
-* 对 html、css 有基本了解
+* 会使用 TestFlight 、蒲公英发布版本测试
+* 会点  js and html and css ~
+* 会点 Python
 * 有良好的沟通能力和学习能力
 * 有良好的编程习惯和清晰的代码风格
+
+## 学习
+
+* iOS 方面有在了解 RxSwift, 希望深入了解一下.对 iOS 中的界面跳转有困惑,后期想了解一下 iOS 中关于类 js中路由的概念.
+* 持续学习 Swift~ , 我喜欢这门语言...我希望了解更多...
+* 持续学习 Python~
 
 ## 项目
 
@@ -51,7 +60,7 @@
 * JSPatch接入，用于简单功能的热修复（删除）
 * Git管理代码，sourceTree使用。前期多人操作项目的冲突处理和分支管理
 * 开发证书的管理，app 的提交
-* 目前正在重新构建新版本
+* 正在做全新的版本, 从头开始搭建,目前第一版本已经准备发布.新版本的基础网络框架/工具类/推送等都重新编写,让代码更加 swifter~
 
 ##### [达耳闻](http://t.cn/RGFw7TJ)（Objective-C,2015.12-2016.3）
 

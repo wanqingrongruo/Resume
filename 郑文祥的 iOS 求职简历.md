@@ -13,13 +13,13 @@
 * 有 App 完整的开发经验,  从项目搭建到发布.
 * 熟练掌握 Swift, 参与两个 Swift 相关项目开发
 * 熟练掌握 Objective-C, 参与三个 Objective-C 项目开发
-* 有 Swift 与 Objective-C 混编经验, 参与的两个 Swift 项目都是由混编逐步过渡到纯 Swift,由 Swift2 迁移至 Swift3
+* 有 Swift 与 Objective-C 混编经验, 参与的两个 Swift 项目都是由混编逐步过渡到纯 Swift,由 Swift2 迁移至 Swift3, Swift3 迁移至 Swift4.
 * 熟练使用 URLSession,了解使用 Alamofire 以及 AFNetworking 网路库,对 Alamofire 源码有一定了解
 * 使用过 CoreData 进行数据处理. 新项目使用 Realm数据库引擎做数据管理
 * 了解多线程,熟练使用 GCD.
-* 熟练使用代理模式 、工厂模式、MVC、Notification以及KVC/KVO.
-* 熟练使用代码和 XIB进行自动布局,对 StoryBoard 有所了解.熟练使用 Masonry/Snapkit 等自动布局库
-* 熟悉 Json 解析, 熟练使用 SwiftyJson 库进行 Json解析.
+* 熟练使用代理模式 、工厂模式、MVC、Notification. 了解 MVVM.
+* 熟练使用代码和 XIB进行自动布局,对 StoryBoard 有所了解.熟练使用 Masonry/Snapkit/YogaKit 等自动布局库
+* 熟悉 Json 解析, 熟练使用 SwiftyJson 库进行 Json解析. 了解 Codable.
 * 熟练使用各种控件进行页面编写,有一定的审美觉悟.
 * 有 CoreBluetooth、Mapkit 使用经验
 * 了解 apns远程推送, 有极光推送使用经验.
@@ -28,6 +28,7 @@
 * 了解 Git,惯于使用 Sourcetree 进行 git 提交 
 * 会使用 Bugly 进行 bug 收集 以及 友盟进行数据统计
 * 会使用 TestFlight 、蒲公英发布版本测试
+* 了解持续集成. 对 JenKins 有所了解, 有使用 Fastlane 的经验.
 * 会点  js and html and css ~
 * 会点 Python
 * 有良好的沟通能力和学习能力

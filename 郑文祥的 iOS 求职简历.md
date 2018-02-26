@@ -18,6 +18,7 @@
 * 使用过 CoreData 进行数据处理. 新项目使用 Realm数据库引擎做数据管理
 * 熟练使用代理模式 、工厂模式、MVC、Notification. 了解 MVVM.
 * 熟练使用代码和 XIB进行自动布局,对 StoryBoard 有所了解.熟练使用 Masonry/Snapkit/YogaKit 等自动布局库
+* 了解多线程,熟练使用GCD, Operation
 * 熟悉 Json 解析, 熟练使用 SwiftyJson 库进行 Json解析. 了解 Codable.
 * 熟练使用各种控件进行页面编写,有一定的审美觉悟.
 * 有 CoreBluetooth、Mapkit 使用经验
